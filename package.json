@@ -14,7 +14,7 @@
     "json"
   ],
   "author": "Elmir Ismayilov",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
