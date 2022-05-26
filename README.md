@@ -1,4 +1,4 @@
-# TSCONFIG-CLI
+# CLI-TSCONFIG
 
 I created this basic CLI for myself to make things easier when I begin a new project and want to use TypeScript. I'll add more config file options for other frameworks.
 
@@ -9,7 +9,7 @@ I created this basic CLI for myself to make things easier when I begin a new pro
 <a name="installation"></a>
 
 ```shell
-npm install tsconfig-cli
+npm install cli-tsconfig
 ```
 
 ### Usage
@@ -17,5 +17,5 @@ npm install tsconfig-cli
 <a name="installation"></a>
 
 ```shell
-npx tsconfig-cli
+npx cli-tsconfig
 ```

@@ -1,6 +1,6 @@
 {
-  "name": "tsconfig-cli",
-  "version": "1.0.0",
+  "name": "cli-tsconfig",
+  "version": "1.0.1",
   "description": "Create tsconfig.json file easily",
   "main": "src/script.js",
   "bin": "src/script.js",
