@@ -1,0 +1,29 @@
+{
+  "name": "tsconfig-cli",
+  "version": "1.0.0",
+  "description": "Create tsconfig.json file easily",
+  "main": "src/script.js",
+  "bin": "src/script.js",
+  "scripts": {
+    "start": "node src/script.js"
+  },
+  "keywords": [
+    "tsconfig-cli",
+    "tsconfig",
+    "typescript",
+    "json"
+  ],
+  "author": "Elmir Ismayilov",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmirsmylv/tsconfig-cli.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/elmirsmylv/tsconfig-cli/issues"
+  },
+  "homepage": "https://github.com/elmirsmylv/tsconfig-cli"
+}
