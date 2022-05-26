@@ -14,7 +14,6 @@ var configFiles = {};
     const techName = i.split(".")[1];
     configFiles[techName] = path.join(configsPath + "/" + i);
   }
-  console.log(configFiles);
 
   const { tech } = await inquirer
     .prompt([
